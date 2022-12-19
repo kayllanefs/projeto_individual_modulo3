@@ -1,0 +1,46 @@
+
+
+{
+  "mesas":[
+    {"mesa": 1, "clienteId":10, "id":1, "lugares":2},
+    {"mesa": 2, "clienteId":20, "id":2, "lugares":4},
+    {"mesa": 3, "clienteId":30, "id":3, "lugares":6},
+    {"mesa": 4, "clienteId":40, "id":4, "lugares":8},
+    {"mesa": 5, "clienteId":50, "id":5, "lugares":10},
+    {"mesa": 6, "clienteId":60, "id":6, "lugares":12},
+    {"mesa": 7, "clienteId":70, "id":7, "lugares":14},
+    {"mesa": 8, "clienteId":80, "id":8, "lugares":16},
+    {"mesa": 9, "clienteId":90, "id":9, "lugares":18},
+    {"mesa": 10, "clienteId":100, "id":10, "lugares":20}
+   
+  ],
+  "funcionarios":[
+    {"nome": "larissa", "cargo":"gerente", "id": 1010, "funcionarioId": 11234, "salario": 50000, "id" :111 },
+    {"nome": "bernardo", "cargo":"recepcionista", "funcionarioId": 2020, "salario": 40000, "id":222 },
+    {"nome": "benjamin", "cargo":"chefe", "funcionarioId": 3030, "salario": 50000, "id":333},
+    {"nome": "alice", "cargo":"cozinheiro", "funcionarioId": 4040, "salario": 30000, "id":444},
+    {"nome": "lara", "cargo":"cozinheiro", "funcionarioId": 5050,  "salario": 30000, "id":555 },
+    {"nome": "ryan", "cargo":"ajudante de cozinha", "funcionarioId": 6060, "salario": 30000, "id":666 },
+    {"nome": "lucas", "cargo":"ajudante de cozinha", "funcionarioId": 7070, "salario": 30000, "id":777 },
+    {"nome": "yasmin", "cargo":"garçom", "funcionarioId": 8080, "salario": 20000, "id":888 },
+    {"nome": "joão", "cargo":"garçom", "funcionarioId": 9090, "salario": 20000, "id":999 },
+    {"nome": "julio", "cargo":"garçom", "funcionarioId": 100100, "salario": 20000, "id":121 },
+    {"nome": "elder", "cargo":"limpeza", "funcionarioId": 200200, "salario": 20000,  "id":231},
+    {"nome": "guilherme", "cargo":"limpeza", "funcionarioId": 300300, "salario": 20000,  "id":341}
+  ],
+
+
+
+  "clientes":[
+    {"nome":"Matheus", "cpf": "111.222.333.11", "id":101, "telefone":"99922-99999" },
+    {"nome":"pandora", "cpf": "111.222.333.22", "id":200, "telefone":"92299-99988" },
+    {"nome":"Liz", "cpf": "111.222.333.33", "id":300, "telefone":"99999-33977" },
+    {"nome":"junior", "cpf": "111.222.333.44", "id":400, "telefone":"99129-99955" },
+    {"nome":"jose", "cpf": "111.222.333.55", "id":500, "telefone":"92299-99944" },
+    {"nome":"vitor", "cpf": "111.222.333.66", "id":600, "telefone":"95499-99933" },
+    {"nome":"giselle", "cpf": "111.222.333.77", "id":700, "telefone":"99679-99922" },
+    {"nome":"gabriela", "cpf": "111.222.333.88", "id":800, "telefone":"96799-99911" },
+    {"nome":"adriana", "cpf": "111.222.333.99", "id":900, "telefone":"99129-99900" }
+  ]
+
+}
